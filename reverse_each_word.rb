@@ -1,3 +1,3 @@
-def reverse_each_word()
-  reverse_each_word.to_a
+def reverse_each_word(sentence)
+  sentence.reverse
 end
