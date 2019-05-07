@@ -1,5 +1,3 @@
-def reverse_each_word
-  sentence1 = ["Hello there, and hou are you?"]
-  sentence1.to_a
-  puts sentence1
+def reverse_each_word()
+  reverse_each_word.to_a
 end
